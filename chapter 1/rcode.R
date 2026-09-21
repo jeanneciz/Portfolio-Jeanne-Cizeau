@@ -6,5 +6,6 @@ data <- subset(data, select = -c(Race.UID, Day, Race.Category, Administrative.Le
 # Data set size 
 dim(data)
 dim(data)[1] * dim(data) [2]
+# Now some graphs 
 
 
